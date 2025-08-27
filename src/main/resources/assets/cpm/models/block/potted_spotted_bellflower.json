@@ -1,0 +1,7 @@
+{
+  "parent": "cpm:block/cpm_flower_pot_cross",
+  "textures": {
+    "plant": "cpm:block/spotted_bellflower"
+  },
+  "render_type": "cutout"
+}

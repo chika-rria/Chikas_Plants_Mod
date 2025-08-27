@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_features",
+  "biomes":  {
+    "type": "forge:or",
+    "values": [
+      "minecraft:forest",
+      "minecraft:birch_forest",
+      "minecraft:old_growth_pine_taiga"
+    ]
+  },
+  "features": "cpm:violet_placed",
+  "step": "vegetal_decoration"
+}

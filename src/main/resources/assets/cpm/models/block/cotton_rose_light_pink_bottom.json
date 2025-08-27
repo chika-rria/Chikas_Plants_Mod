@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cpm:block/cotton_rose_light_pink_bottom"
+  },
+  "render_type": "cutout"
+}

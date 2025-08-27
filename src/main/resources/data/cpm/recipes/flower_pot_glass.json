@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "pattern": [
+    "XX"
+  ],
+  "result": {
+    "item": "cpm:flower_pot_glass"
+  }
+}

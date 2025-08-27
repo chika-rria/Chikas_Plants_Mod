@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "cpm:block/globe_amaranth"
+  },
+  "render_type": "cutout"
+}

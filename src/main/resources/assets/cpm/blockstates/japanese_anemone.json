@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "cpm:block/japanese_anemone_bottom"
+    },
+    "half=upper": {
+      "model": "cpm:block/japanese_anemone_top"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+Copyright (c) 2025 Chika
+All Rights Reserved.
+
+【English】
+This mod is for personal use only.
+You may modify this mod for personal use, but redistribution of modified versions is prohibited.
+You may publish gameplay videos or livestream using this mod on platforms like YouTube or Twitch.
+Redistribution or commercial use is prohibited without permission. Including this mod in ModPacks or other distribution packages without explicit permission is also prohibited.
+The author is not responsible for any damage caused by using this mod.
+
+For details, please refer to this LICENSE file.
+
+【日本語】
+このModは個人利用のみに限られます。
+個人利用の範囲で改造することは可能ですが、改造版を無断で配布することは禁止されています。
+YouTubeやTwitchなどでこのModを使用したゲームプレイ動画や配信を公開することができます。
+無断での再配布および商用利用は禁止されています。また、ModPackや他の配布パッケージに無許可で含めることも禁止されています。
+このModの使用によって生じたいかなる損害についても、作者は責任を負いません。
+
+詳細についてはこのLICENSEファイルをご参照ください。

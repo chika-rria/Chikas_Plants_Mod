@@ -1,0 +1,7 @@
+{
+  "parent": "cpm:block/cpm_flower_pot_cross",
+  "textures": {
+    "plant": "cpm:block/woodland_forget_me_not"
+  },
+  "render_type": "cutout"
+}

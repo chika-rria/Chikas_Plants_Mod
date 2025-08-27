@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "cpm:block/bush_clover"
+  },
+  "render_type": "cutout"
+}

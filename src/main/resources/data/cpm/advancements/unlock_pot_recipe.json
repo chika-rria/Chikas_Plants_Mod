@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "has_cpm_flower_pot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:flower_pot"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "cpm:flower_pot_blue",
+      "cpm:flower_pot_brown",
+      "cpm:flower_pot_cyan",
+      "cpm:flower_pot_glass",
+      "cpm:flower_pot_gray",
+      "cpm:flower_pot_green",
+      "cpm:flower_pot_light_blue",
+      "cpm:flower_pot_moss_ball",
+      "cpm:flower_pot_red",
+      "cpm:flower_pot_white",
+      "cpm:flower_pot_yellow"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "cpm:block/tiger_lily"
+  },
+  "render_type": "cutout"
+}

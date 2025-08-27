@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_features",
+  "biomes":  {
+    "type": "forge:or",
+    "values": [
+      "minecraft:plains",
+      "minecraft:windswept_hills",
+      "minecraft:savanna"
+    ]
+  },
+  "features": "cpm:safflower_placed",
+  "step": "vegetal_decoration"
+}
