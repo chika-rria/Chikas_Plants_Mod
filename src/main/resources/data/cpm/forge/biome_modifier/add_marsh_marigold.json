@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_features",
+  "biomes":  {
+    "type": "forge:or",
+    "values": [
+      "minecraft:swamp",
+      "minecraft:river",
+      "minecraft:taiga"
+    ]
+  },
+  "features": "cpm:marsh_marigold_placed",
+  "step": "vegetal_decoration"
+}

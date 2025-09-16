@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+      {"model": "cpm:block/lycoris_radiata", "weight": 200},
+      {"model": "cpm:block/lycoris_radiata_white"}
+    ]
+  }
+}

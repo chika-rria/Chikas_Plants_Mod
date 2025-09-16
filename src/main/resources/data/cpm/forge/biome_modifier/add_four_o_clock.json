@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_features",
+  "biomes":  {
+    "type": "forge:or",
+    "values": [
+      "minecraft:plains",
+      "minecraft:savanna",
+      "minecraft:savanna_plateau"
+    ]
+  },
+  "features": "cpm:four_o_clock_placed",
+  "step": "vegetal_decoration"
+}

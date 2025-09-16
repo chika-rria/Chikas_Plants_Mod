@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:bamboo",
+    "minecraft:cactus",
+    "#minecraft:small_flowers",
+    "#cpm:cpm_plants"
+  ]
+}

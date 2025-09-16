@@ -1,0 +1,57 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "cpm:block/flower_pot_pink",
+    "flowerpot": "cpm:block/flower_pot_pink",
+    "dirt": "minecraft:block/dirt"
+  },
+  "elements": [
+    {   "from": [ 5, 0, 5 ],
+      "to": [ 6, 9, 11 ],
+      "faces": {
+        "down":  { "uv": [ 9, 2, 10, 8 ], "texture": "#flowerpot", "cullface": "down" },
+        "up":    { "uv": [ 9, 2, 10, 8 ], "texture": "#flowerpot" },
+        "north": { "uv": [ 10, 7, 11, 16 ], "texture": "#flowerpot" },
+        "south": { "uv": [ 5, 7, 6, 16 ], "texture": "#flowerpot" },
+        "west":  { "uv": [ 5, 7, 11, 16 ], "texture": "#flowerpot" },
+        "east":  { "uv": [ 5, 7, 11, 16 ], "texture": "#flowerpot" }
+      }
+    },
+    {   "from": [ 10, 0, 5 ],
+      "to": [ 11, 9, 11 ],
+      "faces": {
+        "down":  { "uv": [ 8, 2, 9, 8 ], "texture": "#flowerpot", "cullface": "down" },
+        "up":    { "uv": [ 8, 2, 9, 8 ], "texture": "#flowerpot" },
+        "north": { "uv": [ 5, 7, 6, 16 ], "texture": "#flowerpot" },
+        "south": { "uv": [ 10, 7, 11, 16 ], "texture": "#flowerpot" },
+        "west":  { "uv": [ 5, 7, 11, 16 ], "texture": "#flowerpot" },
+        "east":  { "uv": [ 5, 7, 11, 16 ], "texture": "#flowerpot" }
+      }
+    },
+    {   "from": [ 6, 0, 5 ],
+      "to": [ 10, 9, 6 ],
+      "faces": {
+        "down":  { "uv": [ 6, 6, 10, 7], "texture": "#flowerpot", "cullface": "down" },
+        "up":    { "uv": [ 5, 5, 9, 6 ], "texture": "#flowerpot" },
+        "north": { "uv": [ 6, 7, 10, 16 ], "texture": "#flowerpot" },
+        "south": { "uv": [ 6, 7, 10, 16 ], "texture": "#flowerpot" }
+      }
+    },
+    {   "from": [ 6, 0, 10 ],
+      "to": [ 10, 9, 11 ],
+      "faces": {
+        "down":  { "uv": [ 6, 2, 10, 3 ], "texture": "#flowerpot", "cullface": "down" },
+        "up":    { "uv": [ 6, 3, 10, 4 ], "texture": "#flowerpot" },
+        "north": { "uv": [ 6, 7, 10, 16 ], "texture": "#flowerpot" },
+        "south": { "uv": [ 6, 7, 10, 16 ], "texture": "#flowerpot" }
+      }
+    },
+    {   "from": [ 6, 0, 6 ],
+      "to": [ 10, 7, 10 ],
+      "faces": {
+        "down": { "uv": [ 6, 3, 10, 7 ], "texture": "#flowerpot", "cullface": "down" },
+        "up":   { "uv": [ 6, 6, 10, 10 ], "texture": "#dirt" }
+      }
+    }
+  ]
+}

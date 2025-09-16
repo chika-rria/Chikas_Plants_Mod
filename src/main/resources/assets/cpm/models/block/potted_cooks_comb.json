@@ -1,0 +1,7 @@
+{
+  "parent": "cpm:block/cpm_flower_pot_cross",
+  "textures": {
+    "plant": "cpm:block/cooks_comb"
+  },
+  "render_type": "cutout"
+}

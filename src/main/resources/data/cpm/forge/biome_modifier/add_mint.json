@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_features",
+  "biomes":  {
+    "type": "forge:or",
+    "values": [
+      "minecraft:swamp",
+      "minecraft:plains",
+      "minecraft:river"
+    ]
+  },
+  "features": "cpm:mint_placed",
+  "step": "vegetal_decoration"
+}

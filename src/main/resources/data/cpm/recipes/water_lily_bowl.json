@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:blue_dye"
+    },
+    {
+      "item": "minecraft:flower_pot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "cpm:water_lily_bowl"
+  }
+}

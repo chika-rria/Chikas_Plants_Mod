@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "cpm:block/floatingheart"
+      },
+      {
+        "model": "cpm:block/floatingheart",
+        "y": 90
+      },
+      {
+        "model": "cpm:block/floatingheart",
+        "y": 180
+      },
+      {
+        "model": "cpm:block/floatingheart",
+        "y": 270
+      }
+    ]
+  }
+}

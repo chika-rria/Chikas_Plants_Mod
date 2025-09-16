@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "cpm:block/cosmos_bottom"
+    },
+    "half=upper": {
+      "model": "cpm:block/cosmos_top"
+    }
+  }
+}
