@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "part=root": { "model": "cpm:block/tall_sunflower_bottom" },
+    "part=middle": { "model": "cpm:block/tall_sunflower_bottom" },
+    "part=top": { "model": "cpm:block/tall_sunflower_cream_top" }
+  }
+}

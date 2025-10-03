@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "cpm:block/golden_lace"
+  },
+  "render_type": "cutout"
+}

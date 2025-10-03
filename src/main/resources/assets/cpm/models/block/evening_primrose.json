@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "cpm:block/evening_primrose"
+  },
+  "render_type": "cutout"
+}

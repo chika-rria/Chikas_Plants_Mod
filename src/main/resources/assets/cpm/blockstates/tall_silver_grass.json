@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "part=root": { "model": "cpm:block/tall_silver_grass_root" },
+    "part=middle": { "model": "cpm:block/tall_silver_grass_middle" },
+    "part=top": { "model": "cpm:block/tall_silver_grass_top" }
+  }
+}

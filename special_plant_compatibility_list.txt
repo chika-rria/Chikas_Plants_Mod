@@ -1,0 +1,43 @@
+1.19.2
+
+atmospheric
+   barrel_cactus
+
+byg
+   aloe_vera
+   barrel_cactus
+   flowering_barrel_cactus
+   hydrangea_hedge
+
+environmental
+   cattail
+   dwarf_spruce
+
+ferdinandsflowers
+   bamboo_golden
+   bamboo_black
+   bamboo_groove
+
+naturaldecormod
+   acacia_bonzai
+   agave_ndm
+   birch_bonsai
+   butterfly_flower_bush_ndm
+   creeping_flox_blue_large
+   creeping_flox_purple_large
+   dark_oak_bonsai
+   frost_flower_ndm
+   giant_horse_tail_tall_ndm_base
+   irish_moss_large
+   jungle_bonsai
+   mangrove_bonsai
+   oak_bonsai
+   saguaro_cactus_arm
+   sugaro_cactus_hand
+   saguaro_cactus_segment
+   spruce_bonsai
+   sundew_fixed
+
+quark
+   chorus_twist
+   chorus_weeds

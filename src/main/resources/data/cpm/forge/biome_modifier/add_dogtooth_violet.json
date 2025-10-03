@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_features",
+  "biomes":  {
+    "type": "forge:or",
+    "values": [
+      "minecraft:forest",
+      "minecraft:taiga",
+      "minecraft:old_growth_birch_forest",
+      "minecraft:windswept_forest"
+    ]
+  },
+  "features": "cpm:dogtooth_violet_placed",
+  "step": "vegetal_decoration"
+}

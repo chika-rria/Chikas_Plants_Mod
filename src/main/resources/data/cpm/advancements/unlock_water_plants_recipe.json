@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "has_cpm_flower_pot": {
+      "conditions": {
+        "items": [
+          {
+            "items":[
+              "minecraft:lily_pad"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "cpm:floatingheart",
+      "cpm:pickerelweed",
+      "cpm:lotus"
+    ]
+  }
+}

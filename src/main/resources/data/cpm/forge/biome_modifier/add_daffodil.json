@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_features",
+  "biomes":  {
+    "type": "forge:or",
+    "values": [
+      "minecraft:plains",
+      "minecraft:forest",
+      "minecraft:flower_forest",
+      "minecraft:river"
+    ]
+  },
+  "features": "cpm:daffodil_placed",
+  "step": "vegetal_decoration"
+}

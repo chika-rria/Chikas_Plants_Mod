@@ -1,0 +1,7 @@
+{
+  "parent": "cpm:block/cpm_flower_pot_cross",
+  "textures": {
+    "plant": "cpm:block/lycoris_radiata_white"
+  },
+  "render_type": "cutout"
+}

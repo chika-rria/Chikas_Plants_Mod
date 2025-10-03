@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cpm:item/flower_pot_magenta_item"
+  }
+}

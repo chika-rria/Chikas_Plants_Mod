@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "minecraft:sunflower"
+    },
+    "Y": {
+      "item": "minecraft:orange_dye"
+    }
+  },
+  "pattern": [
+    " Y ",
+    "XXX"
+  ],
+  "result": {
+    "item": "cpm:tall_sunflower_orange",
+    "count": 2
+  }
+}
