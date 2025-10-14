@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cpm:lycoris_radiata"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "item": "minecraft:shroomlight"
+    }
+  ],
+  "result": {
+    "item": "cpm:lycoris_radiata_pink"
+  }
+}

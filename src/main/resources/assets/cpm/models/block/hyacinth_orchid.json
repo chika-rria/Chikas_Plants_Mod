@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "cpm:block/hyacinth_orchid"
+  },
+  "render_type": "cutout"
+}

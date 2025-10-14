@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "part=root": { "model": "naturaldecormod:block/giant_horse_tail_tall_ndm_base" },
+    "part=middle": { "model": "naturaldecormod:block/giant_horse_tail_big_middle"  },
+    "part=top": { "model": "naturaldecormod:block/giant_horse_tail_big_top_ndm" }
+  }
+}

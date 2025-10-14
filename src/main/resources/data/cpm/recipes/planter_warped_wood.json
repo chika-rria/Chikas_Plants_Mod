@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:stripped_warped_stem"
+    },
+    "X": {
+      "item": "minecraft:flower_pot"
+    }
+  },
+  "pattern": [
+    "#X#"
+  ],
+  "result": {
+    "item": "cpm:planter_warped_wood"
+  }
+}

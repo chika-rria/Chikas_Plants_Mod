@@ -1,0 +1,36 @@
+{
+  "variants": {
+    "facing=east,has_plant=false": {
+      "model": "cpm:block/planter_jungle",
+      "y": 270
+    },
+    "facing=north,has_plant=false": {
+      "model": "cpm:block/planter_jungle",
+      "y": 180
+    },
+    "facing=south,has_plant=false": {
+      "model": "cpm:block/planter_jungle",
+      "y": 0
+    },
+    "facing=west,has_plant=false": {
+      "model": "cpm:block/planter_jungle",
+      "y": 90
+    },
+    "facing=east,has_plant=true": {
+      "model": "cpm:block/planter_jungle_has_plant",
+      "y": 270
+    },
+    "facing=north,has_plant=true": {
+      "model": "cpm:block/planter_jungle_has_plant",
+      "y": 180
+    },
+    "facing=south,has_plant=true": {
+      "model": "cpm:block/planter_jungle_has_plant",
+      "y": 0
+    },
+    "facing=west,has_plant=true": {
+      "model": "cpm:block/planter_jungle_has_plant",
+      "y": 90
+    }
+  }
+}

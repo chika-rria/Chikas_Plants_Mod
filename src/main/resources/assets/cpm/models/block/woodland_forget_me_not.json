@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "cpm:block/woodland_forget_me_not"
+  },
+  "render_type": "cutout"
+}

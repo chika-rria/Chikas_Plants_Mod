@@ -1,0 +1,7 @@
+{
+  "parent": "cpm:block/cpm_flower_pot_cross",
+  "textures": {
+    "plant": "cpm:block/rose_balsam"
+  },
+  "render_type": "cutout"
+}

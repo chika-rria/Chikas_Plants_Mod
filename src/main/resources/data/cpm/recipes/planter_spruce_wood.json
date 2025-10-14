@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:stripped_spruce_log"
+    },
+    "X": {
+      "item": "minecraft:flower_pot"
+    }
+  },
+  "pattern": [
+    "#X#"
+  ],
+  "result": {
+    "item": "cpm:planter_spruce_wood"
+  }
+}

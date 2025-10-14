@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "lime_dye",
+  "ingredients": [
+    {
+      "item": "cpm:balloon_vine"
+    }
+  ],
+  "result": {
+    "item": "minecraft:lime_dye"
+  }
+}

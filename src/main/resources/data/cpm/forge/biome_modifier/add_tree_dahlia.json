@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "minecraft:sunflower_plains",
+  "features": "cpm:tree_dahlia_placed",
+  "step": "vegetal_decoration"
+}

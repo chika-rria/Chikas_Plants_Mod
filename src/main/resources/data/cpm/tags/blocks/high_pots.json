@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "cpm:flower_pot_pink",
+    "cpm:flower_pot_purple",
+    "cpm:medium_pot_magenta",
+    "cpm:medium_pot_light_gray",
+    "cpm:medium_pot_green",
+    "cpm:medium_pot_white"
+  ]
+}
