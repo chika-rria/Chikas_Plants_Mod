@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "cpm:block/white_egret_flower"
+  },
+  "render_type": "cutout"
+}

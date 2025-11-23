@@ -1,0 +1,37 @@
+{
+  "criteria": {
+    "has_cpm_planter": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "cpm:planter_oak",
+              "cpm:planter_spruce",
+              "cpm:planter_birch",
+              "cpm:planter_jungle",
+              "cpm:planter_acacia",
+              "cpm:planter_dark_oak",
+              "cpm:planter_mangrove",
+              "cpm:planter_warped",
+              "cpm:planter_crimson"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "cpm:planter_oak_wood",
+      "cpm:planter_spruce_wood",
+      "cpm:planter_birch_wood",
+      "cpm:planter_jungle_wood",
+      "cpm:planter_acacia_wood",
+      "cpm:planter_dark_oak_wood",
+      "cpm:planter_mangrove_wood",
+      "cpm:planter_warped_wood",
+      "cpm:planter_crimson_wood"
+    ]
+  }
+}

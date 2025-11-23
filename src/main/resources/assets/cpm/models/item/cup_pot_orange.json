@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cpm:item/cup_pot_orange_item"
+  }
+}

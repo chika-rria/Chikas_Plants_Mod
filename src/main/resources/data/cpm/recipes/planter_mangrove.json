@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "planter",
+  "key": {
+    "#": {
+      "item": "minecraft:mangrove_planks"
+    },
+    "X": {
+      "item": "minecraft:flower_pot"
+    }
+  },
+  "pattern": [
+    "#X#"
+  ],
+  "result": {
+    "item": "cpm:planter_mangrove"
+  }
+}

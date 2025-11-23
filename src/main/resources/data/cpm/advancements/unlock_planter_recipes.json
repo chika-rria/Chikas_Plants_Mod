@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "has_cpm_flower_pot": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "cpm:flower_pot_blue",
+              "cpm:flower_pot_gray",
+              "cpm:flower_pot_magenta",
+              "cpm:flower_pot_brown",
+              "cpm:flower_pot_green",
+              "cpm:flower_pot_white",
+              "cpm:flower_pot_yellow"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "cpm:planter_oak",
+      "cpm:planter_spruce",
+      "cpm:planter_birch",
+      "cpm:planter_jungle",
+      "cpm:planter_acacia",
+      "cpm:planter_dark_oak",
+      "cpm:planter_mangrove",
+      "cpm:planter_warped",
+      "cpm:planter_crimson"
+    ]
+  }
+}

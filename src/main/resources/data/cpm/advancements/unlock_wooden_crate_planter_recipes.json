@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "has_wooden_crate_planter": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:wooden_crate_planter_oak"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "cpm:wooden_crate_planter_dark_oak",
+      "cpm:wooden_crate_planter_magenta",
+      "cpm:wooden_crate_planter_light_blue",
+      "cpm:wooden_crate_planter_lime"
+    ]
+  }
+}

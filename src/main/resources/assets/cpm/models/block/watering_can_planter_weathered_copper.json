@@ -1,0 +1,7 @@
+{
+  "parent": "cpm:block/watering_can_planter",
+  "textures": {
+    "0": "minecraft:block/weathered_copper",
+    "dirt": "cpm:block/clear"
+  }
+}

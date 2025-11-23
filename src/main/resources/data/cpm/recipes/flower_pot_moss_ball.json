@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:black_dye"
+    },
+    {
+      "item": "minecraft:moss_block"
+    },
+    {
+      "item": "minecraft:flower_pot"
+    }
+  ],
+  "result": {
+    "item": "cpm:flower_pot_moss_ball"
+  }
+}

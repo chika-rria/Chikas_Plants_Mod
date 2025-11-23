@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "cpm:block/japanese_skunk_cabbage"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "cpm:block/iris_blue"
+  },
+  "render_type": "cutout"
+}

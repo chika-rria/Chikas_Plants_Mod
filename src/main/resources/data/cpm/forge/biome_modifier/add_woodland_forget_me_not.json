@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_features",
+  "biomes":  {
+    "type": "forge:or",
+    "values": [
+      "minecraft:meadow",
+      "minecraft:forest",
+      "minecraft:river"
+    ]
+  },
+  "features": "cpm:woodland_forget_me_not_placed",
+  "step": "vegetal_decoration"
+}

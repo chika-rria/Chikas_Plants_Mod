@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "cpm:block/hydrangea_pink"
+  },
+  "render_type": "cutout"
+}

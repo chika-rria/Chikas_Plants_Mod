@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "deep_pot",
+  "key": {
+    "X": {
+      "item": "minecraft:flower_pot"
+    },
+    "#": {
+      "item": "minecraft:purple_dye"
+    }
+  },
+  "pattern": [
+    "#",
+    "X"
+  ],
+  "result": {
+    "item": "cpm:deep_pot_purple"
+  }
+}

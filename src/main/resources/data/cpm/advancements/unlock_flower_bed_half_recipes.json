@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "has_cpm_flower_bed": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "cpm:flower_bed_grass",
+              "cpm:flower_bed_dirt",
+              "cpm:flower_bed_sand"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "cpm:flower_bed_dirt_half",
+      "cpm:flower_bed_grass_half",
+      "cpm:flower_bed_sand_half"
+    ]
+  }
+}

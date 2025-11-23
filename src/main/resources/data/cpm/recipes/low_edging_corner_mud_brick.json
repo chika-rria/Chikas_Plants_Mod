@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "low_edging_corner",
+  "key": {
+    "#": {
+      "item": "minecraft:mud_bricks"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## "
+  ],
+  "result": {
+    "item": "cpm:low_edging_corner_mud_brick",
+    "count": 9
+  }
+}

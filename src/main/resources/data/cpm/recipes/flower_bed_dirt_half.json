@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "flower_bed",
+  "key": {
+    "#": {
+      "item": "cpm:flower_bed_dirt"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "item": "cpm:flower_bed_dirt_half",
+    "count": 6
+  }
+}

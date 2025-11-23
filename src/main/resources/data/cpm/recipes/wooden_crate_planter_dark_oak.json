@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "square_pot",
+  "key": {
+    "X": {
+      "item": "minecraft:flower_pot"
+    },
+    "#": {
+      "item": "minecraft:dark_oak_slab"
+    }
+  },
+  "pattern": [
+    "#X"
+  ],
+  "result": {
+    "item": "cpm:wooden_crate_planter_dark_oak"
+  }
+}

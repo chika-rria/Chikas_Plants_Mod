@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "cpm:block/chrysanthemum_yellow"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cpm:item/ribbon_pot_light_blue_item"
+  }
+}

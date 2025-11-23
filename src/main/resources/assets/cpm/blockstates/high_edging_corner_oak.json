@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "cpm:block/high_edging_corner_oak",
+      "y": 0
+    },
+    "facing=north": {
+      "model": "cpm:block/high_edging_corner_oak",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "cpm:block/high_edging_corner_oak",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "cpm:block/high_edging_corner_oak",
+      "y": 180
+    }
+  }
+}

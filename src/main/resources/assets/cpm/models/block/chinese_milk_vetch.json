@@ -1,0 +1,7 @@
+{
+  "parent": "cpm:block/rhombic_plant",
+  "textures": {
+    "plant": "cpm:block/chinese_milk_vetch"
+  },
+  "render_type": "cutout"
+}

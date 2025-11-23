@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "cpm:deep_pot_green",
+    "cpm:deep_pot_pink",
+    "cpm:deep_pot_purple",
+    "cpm:deep_pot_yellow",
+    "cpm:watering_can_planter_iron",
+    "cpm:watering_can_planter_copper",
+    "cpm:watering_can_planter_weathered_copper",
+    "cpm:medium_pot_green",
+    "cpm:medium_pot_light_gray",
+    "cpm:medium_pot_magenta",
+    "cpm:medium_pot_white"
+  ]
+}

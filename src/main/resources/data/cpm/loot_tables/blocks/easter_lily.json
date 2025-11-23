@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "cpm:easter_lily",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "part": "root"
+              }
+            }
+          ],
+          "name": "cpm:easter_lily"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

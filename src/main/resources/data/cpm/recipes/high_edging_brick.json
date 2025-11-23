@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "high_edging",
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "cpm:low_edging_brick"
+    }
+  },
+  "result": {
+    "item": "cpm:high_edging_brick",
+    "count": 2
+  }
+}

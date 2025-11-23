@@ -1,0 +1,45 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "minecraft:block/bricks",
+		"particle": "minecraft:block/bricks"
+    },
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [3, 10, 3],
+			"faces": {
+				"north": {"uv": [3, 0, 0, 10], "texture": "#0"},
+				"east": {"uv": [4, 0, 7, 10], "texture": "#0"},
+				"south": {"uv": [12, 0, 15, 10], "texture": "#0"},
+				"west": {"uv": [0, 0, 3, 10], "texture": "#0"},
+				"up": {"uv": [0, 0, 3, 3], "texture": "#0"},
+				"down": {"uv": [8, 0, 11, 3], "texture": "#0"}
+			}
+		}
+	],
+    "gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [6.5, 8, 5.75]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-6.25, 8, 5.75]
+		},
+		"firstperson_righthand": {
+			"translation": [8, 3.75, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 3.5, 0]
+		},
+		"ground": {
+			"translation": [0, 3.25, 0]
+		},
+		"gui": {
+			"translation": [6.5, 2.75, 0]
+		},
+		"fixed": {
+			"translation": [6.5, 2.5, 6]
+		}
+	}
+}

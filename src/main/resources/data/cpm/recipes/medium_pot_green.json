@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "medium_pot",
+  "key": {
+    "X": {
+      "item": "minecraft:flower_pot"
+    },
+    "#": {
+      "item": "minecraft:green_dye"
+    }
+  },
+  "pattern": [
+    " #",
+    "X "
+  ],
+  "result": {
+    "item": "cpm:medium_pot_green"
+  }
+}

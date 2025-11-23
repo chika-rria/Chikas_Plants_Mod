@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wood_planter",
+  "key": {
+    "#": {
+      "item": "minecraft:stripped_mangrove_log"
+    },
+    "X": {
+      "item": "minecraft:flower_pot"
+    }
+  },
+  "pattern": [
+    "#X#"
+  ],
+  "result": {
+    "item": "cpm:planter_mangrove_wood"
+  }
+}

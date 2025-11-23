@@ -1,0 +1,30 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "bamboo": "ferdinandsflowers:block/bamboo_black_stalk",
+    "leaf": "cpm:block/bamboo_black_singleleaf"
+  },
+  "render_type": "cutout",
+  "elements": [
+    {
+      "from": [6.75, -4.5, 6.75],
+      "to": [9.25, 15, 9.25],
+      "faces": {
+        "up":    { "uv": [13, 0, 15, 2], "texture": "#bamboo", "cullface": "up" },
+        "north": { "uv": [6, 0, 8, 16], "texture": "#bamboo" },
+        "south": { "uv": [6, 0, 8, 16], "texture": "#bamboo" },
+        "west":  { "uv": [6, 0, 8, 16], "texture": "#bamboo" },
+        "east":  { "uv": [6, 0, 8, 16], "texture": "#bamboo" }
+      }
+    },
+    {
+      "from": [-2.0, -2.25, 8.0],
+      "to": [18.0, 17.75, 8.0],
+      "shade": false,
+      "faces": {
+        "north": { "uv": [0, 0, 16, 16], "texture": "#leaf" },
+        "south": { "uv": [16, 0, 0, 16], "texture": "#leaf" }
+      }
+    }
+  ]
+}

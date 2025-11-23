@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "cpm:block/rose_balsam"
+  },
+  "render_type": "cutout"
+}

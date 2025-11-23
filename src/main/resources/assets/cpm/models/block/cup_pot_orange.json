@@ -1,0 +1,7 @@
+{
+  "parent": "cpm:block/cup_pot",
+  "textures": {
+    "0": "cpm:block/cup_pot_orange",
+    "dirt": "cpm:block/clear"
+  }
+}

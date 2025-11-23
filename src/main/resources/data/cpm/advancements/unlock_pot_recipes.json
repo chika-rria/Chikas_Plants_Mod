@@ -1,0 +1,61 @@
+{
+  "criteria": {
+    "has_flower_pot": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:flower_pot"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "cpm:flower_pot_blue",
+      "cpm:flower_pot_gray",
+      "cpm:flower_pot_magenta",
+      "cpm:flower_pot_brown",
+      "cpm:flower_pot_green",
+      "cpm:flower_pot_white",
+      "cpm:flower_pot_yellow",
+      "cpm:ribbon_pot_pink",
+      "cpm:ribbon_pot_light_blue",
+      "cpm:ribbon_pot_lime",
+      "cpm:cup_pot_red",
+      "cpm:cup_pot_orange",
+      "cpm:cup_pot_purple",
+      "cpm:cup_pot_light_gray",
+      "cpm:flower_pot_glass",
+
+      "cpm:flower_pot_cyan",
+      "cpm:flower_pot_light_blue",
+      "cpm:flower_pot_moss_ball",
+      "cpm:square_pot_gray",
+      "cpm:square_pot_red",
+
+      "cpm:wooden_crate_planter_oak",
+
+      "cpm:flower_pot_orange",
+      "cpm:flower_pot_lime",
+
+      "cpm:deep_pot_green",
+      "cpm:deep_pot_pink",
+      "cpm:deep_pot_purple",
+      "cpm:deep_pot_yellow",
+
+      "cpm:medium_pot_green",
+      "cpm:medium_pot_light_gray",
+      "cpm:medium_pot_magenta",
+      "cpm:medium_pot_white",
+
+      "cpm:flower_bed_dirt",
+      "cpm:flower_bed_grass",
+      "cpm:flower_bed_sand",
+      "cpm:water_lily_bowl"
+    ]
+  }
+}

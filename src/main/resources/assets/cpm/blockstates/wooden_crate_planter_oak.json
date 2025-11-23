@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "has_plant=false": {
+      "model": "cpm:block/wooden_crate_planter_oak"
+    },
+    "has_plant=true": {
+      "model": "cpm:block/wooden_crate_planter_oak_has_plant"
+    }
+  }
+}

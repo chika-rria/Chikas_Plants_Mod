@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "cpm:block/low_edging_corner_mud_brick",
+      "y": 0
+    },
+    "facing=north": {
+      "model": "cpm:block/low_edging_corner_mud_brick",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "cpm:block/low_edging_corner_mud_brick",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "cpm:block/low_edging_corner_mud_brick",
+      "y": 180
+    }
+  }
+}

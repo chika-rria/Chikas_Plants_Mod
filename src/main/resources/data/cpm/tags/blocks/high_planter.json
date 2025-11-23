@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "cpm:planter_oak",
+    "cpm:planter_spruce",
+    "cpm:planter_birch",
+    "cpm:planter_jungle",
+    "cpm:planter_acacia",
+    "cpm:planter_dark_oak",
+    "cpm:planter_mangrove",
+    "cpm:planter_warped",
+    "cpm:planter_crimson"
+  ]
+}

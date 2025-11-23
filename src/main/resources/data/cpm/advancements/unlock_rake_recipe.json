@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "has_wheat_seeds": {
+      "conditions": {
+        "items": [
+          {
+            "items":[
+              "minecraft:wheat_seeds"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "cpm:rake"
+    ]
+  }
+}

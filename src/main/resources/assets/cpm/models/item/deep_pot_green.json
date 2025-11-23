@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cpm:item/deep_pot_green_item"
+  }
+}
