@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "cpm:block/ribbon_pot_pink",
+      "y": 180
+    },
+    "facing=north": {
+      "model": "cpm:block/ribbon_pot_pink",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cpm:block/ribbon_pot_pink",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "cpm:block/ribbon_pot_pink",
+      "y": 0
+    }
+  }
+}

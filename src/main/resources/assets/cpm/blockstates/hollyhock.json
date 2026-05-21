@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "cpm:block/hollyhock_bottom"
+    },
+    "half=upper": {
+      "model": "cpm:block/hollyhock_top"
+    }
+  }
+}

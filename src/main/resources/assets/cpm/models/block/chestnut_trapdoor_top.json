@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_orientable_trapdoor_top",
+  "textures": {
+    "texture": "cpm:block/chestnut_trapdoor"
+  },
+  "render_type": "cutout"
+}

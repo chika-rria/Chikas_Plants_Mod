@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "cpm:block/flower_pot_cyan",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "cpm:block/flower_pot_cyan",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "cpm:block/flower_pot_cyan",
+      "y": 0
+    },
+    "facing=west": {
+      "model": "cpm:block/flower_pot_cyan",
+      "y": 90
+    }
+  }
+}

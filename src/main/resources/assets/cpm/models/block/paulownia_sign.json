@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "particle": "cpm:block/paulownia_planks"
+  },
+  "render_type": "cutout"
+}

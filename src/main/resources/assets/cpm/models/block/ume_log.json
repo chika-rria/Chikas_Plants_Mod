@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "cpm:block/ume_log_top",
+    "side": "cpm:block/ume_log"
+  }
+}

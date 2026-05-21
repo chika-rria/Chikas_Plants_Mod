@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "cpm:block/spotted_bellflower"
+  },
+  "render_type": "cutout"
+}

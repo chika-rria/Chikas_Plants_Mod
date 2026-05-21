@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "particle": "cpm:block/ume_planks"
+  },
+  "render_type": "cutout"
+}

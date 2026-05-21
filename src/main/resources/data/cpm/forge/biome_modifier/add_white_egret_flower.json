@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes":  {
+    "type": "forge:or",
+    "values": [
+      "minecraft:swamp",
+      "minecraft:river"
+    ]
+  },
+  "features": "cpm:white_egret_flower_placed",
+  "step": "vegetal_decoration"
+}

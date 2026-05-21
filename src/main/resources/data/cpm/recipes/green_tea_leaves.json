@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "cookingtime": 150,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "cpm:fresh_tea_leaves"
+  },
+  "result": "cpm:green_tea_leaves"
+}

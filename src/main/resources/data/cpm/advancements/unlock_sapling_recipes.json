@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "has_wheat_seeds": {
+      "conditions": {
+        "items": [
+          {
+            "items":[
+              "minecraft:oak_sapling"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "cpm:sapling_camellia",
+      "cpm:sapling_chestnut",
+      "cpm:sapling_fragrant_olive",
+      "cpm:sapling_ginkgo",
+      "cpm:sapling_lemon",
+      "cpm:sapling_maple",
+      "cpm:sapling_paulownia",
+      "cpm:sapling_ume"
+    ]
+  }
+}

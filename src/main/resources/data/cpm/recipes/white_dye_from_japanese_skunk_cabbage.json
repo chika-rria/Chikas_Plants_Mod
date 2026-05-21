@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "white_dye",
+  "ingredients": [
+    {
+      "item": "cpm:japanese_skunk_cabbage"
+    }
+  ],
+  "result": {
+    "item": "minecraft:white_dye"
+  }
+}

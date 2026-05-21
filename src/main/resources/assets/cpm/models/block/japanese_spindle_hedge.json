@@ -1,0 +1,7 @@
+{
+  "parent": "cpm:block/hedge",
+  "textures": {
+    "1": "cpm:block/japanese_spindle_hedge_l",
+    "2": "cpm:block/japanese_spindle_hedge_s"
+  }
+}

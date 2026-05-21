@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "minecraft:saplings"
+    },
+    {
+      "item": "cpm:fresh_tea_leaves"
+    }
+  ],
+  "result": {
+    "item": "cpm:tea_sapling",
+    "count": 1
+
+  }
+}

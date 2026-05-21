@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "low_edging",
+  "key": {
+    "#": {
+      "item": "minecraft:nether_brick"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "item": "cpm:low_edging_nether_brick",
+    "count": 9
+  }
+}

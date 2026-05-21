@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "has_fresh_tea_leaves": {
+      "conditions": {
+        "items": [
+          {
+            "items":[
+              "cpm:fresh_tea_leaves"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "cpm:green_tea_leaves",
+      "cpm:oolong_tea_leaves",
+      "cpm:black_tea_leaves",
+      "cpm:green_tea",
+      "cpm:oolong_tea",
+      "cpm:black_tea",
+      "cpm:chamomile_tea",
+      "cpm:tea_sapling"
+    ]
+  }
+}

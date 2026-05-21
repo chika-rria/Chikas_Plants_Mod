@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower,color=day": { "model": "cpm:block/cotton_rose_light_pink_bottom" },
+    "half=lower,color=sunset": { "model": "cpm:block/cotton_rose_deep_pink_bottom" },
+    "half=lower,color=night": { "model": "cpm:block/cotton_rose_bottom" },
+    "half=upper,color=day": { "model": "cpm:block/cotton_rose_light_pink_top" },
+    "half=upper,color=sunset": { "model": "cpm:block/cotton_rose_deep_pink_top" },
+    "half=upper,color=night": { "model": "cpm:block/cotton_rose_top" }
+  }
+}

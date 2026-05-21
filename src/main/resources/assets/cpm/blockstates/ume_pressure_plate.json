@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "cpm:block/ume_pressure_plate"
+    },
+    "powered=true": {
+      "model": "cpm:block/ume_pressure_plate_down"
+    }
+  }
+}

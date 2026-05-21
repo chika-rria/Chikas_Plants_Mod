@@ -1,0 +1,7 @@
+{
+  "parent": "cpm:block/crop_cross",
+  "textures": {
+    "crop_cross": "cpm:item/tea_sapling"
+  },
+  "render_type": "cutout"
+}

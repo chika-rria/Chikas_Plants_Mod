@@ -1,0 +1,36 @@
+{
+  "variants": {
+    "facing=east,has_plant=false": {
+      "model": "cpm:block/watering_can_planter_iron",
+      "y": 0
+    },
+    "facing=north,has_plant=false": {
+      "model": "cpm:block/watering_can_planter_iron",
+      "y": 270
+    },
+    "facing=south,has_plant=false": {
+      "model": "cpm:block/watering_can_planter_iron",
+      "y": 90
+    },
+    "facing=west,has_plant=false": {
+      "model": "cpm:block/watering_can_planter_iron",
+      "y": 180
+    },
+    "facing=east,has_plant=true": {
+      "model": "cpm:block/watering_can_planter_iron_has_plant",
+      "y": 0
+    },
+    "facing=north,has_plant=true": {
+      "model": "cpm:block/watering_can_planter_iron_has_plant",
+      "y": 270
+    },
+    "facing=south,has_plant=true": {
+      "model": "cpm:block/watering_can_planter_iron_has_plant",
+      "y": 90
+    },
+    "facing=west,has_plant=true": {
+      "model": "cpm:block/watering_can_planter_iron_has_plant",
+      "y": 180
+    }
+  }
+}

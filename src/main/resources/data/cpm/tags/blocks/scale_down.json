@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "cpm:cp_byg_barrel_cactus",
+    "cpm:cp_flowering_barrel_cactus",
+    "cpm:cp_saguaro_cactus_arm",
+    "cpm:cp_sugaro_cactus_hand",
+    "cpm:cp_saguaro_cactus_segment"
+  ]
+}

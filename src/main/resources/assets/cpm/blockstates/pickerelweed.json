@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "cpm:block/pickerelweed"
+      },
+      {
+        "model": "cpm:block/pickerelweed",
+        "y": 90
+      },
+      {
+        "model": "cpm:block/pickerelweed",
+        "y": 180
+      },
+      {
+        "model": "cpm:block/pickerelweed",
+        "y": 270
+      }
+    ]
+  }
+}

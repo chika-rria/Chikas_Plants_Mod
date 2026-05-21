@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "cpm:block/marsh_marigold"
+  },
+  "render_type": "cutout"
+}

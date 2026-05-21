@@ -1,0 +1,63 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "minecraft:block/dark_oak_log",
+		"1": "cpm:block/edging_dark_oak",
+		"particle": "minecraft:block/dark_oak_log"
+    },
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [4, 1, 8],
+			"faces": {
+				"north": {"uv": [0, 9, 5, 10], "texture": "#0"},
+				"east": {"uv": [4, 11, 16, 12], "texture": "#0"},
+				"south": {"uv": [9, 0, 14, 1], "texture": "#0"},
+				"west": {"uv": [12, 8, 0, 9], "texture": "#0"},
+				"up": {"uv": [0, 0, 11, 6], "rotation": 270, "texture": "#1"},
+				"down": {"uv": [16, 0, 5, 6], "rotation": 270, "texture": "#1"}
+			}
+		},
+		{
+			"from": [0, 0, 8],
+			"to": [4, 1, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 9, 5, 10], "texture": "#0"},
+				"east": {"uv": [4, 8, 16, 9], "texture": "#0"},
+				"south": {"uv": [9, 0, 14, 1], "texture": "#0"},
+				"west": {"uv": [12, 2, 0, 3], "texture": "#0"},
+				"up": {"uv": [5, 0, 16, 6], "rotation": 270, "texture": "#1"},
+				"down": {"uv": [16, 0, 5, 6], "rotation": 270, "texture": "#1"}
+			}
+		}
+	],
+    "gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 36, 0],
+			"translation": [5.75, 7.5, -4.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 36, 0],
+			"translation": [-5.75, 7.5, 4.25]
+		},
+		"firstperson_righthand": {
+			"translation": [6.5, 5.25, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 5, 0]
+		},
+		"ground": {
+			"translation": [0, 3.75, 0]
+		},
+		"gui": {
+			"rotation": [90, 90, 0],
+			"translation": [0, 6.25, 0]
+		},
+		"fixed": {
+			"rotation": [-90, -90, 0],
+			"translation": [0, 6.5, -7]
+		}
+	}
+}

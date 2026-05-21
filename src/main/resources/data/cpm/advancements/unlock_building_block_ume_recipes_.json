@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "has_ume_sapling": {
+      "conditions": {
+        "items": [
+          {
+            "items":[
+              "cpm:ume_sapling_item"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "cpm:ume_button",
+      "cpm:ume_door",
+      "cpm:ume_fence",
+      "cpm:ume_fence_gate",
+      "cpm:ume_planks",
+      "cpm:ume_pressure_plate",
+      "cpm:ume_sign",
+      "cpm:ume_slab",
+      "cpm:ume_stairs",
+      "cpm:ume_trapdoor",
+      "cpm:ume_wood"
+    ]
+  }
+}

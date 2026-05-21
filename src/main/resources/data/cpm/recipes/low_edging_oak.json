@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "low_edging",
+  "key": {
+    "#": {
+      "item": "minecraft:oak_log"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "item": "cpm:low_edging_oak",
+    "count": 9
+  }
+}

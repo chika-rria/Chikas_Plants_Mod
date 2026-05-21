@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "part=root": { "model": "cpm:block/easter_lily_root" },
+    "part=middle": { "model": "cpm:block/easter_lily_middle" },
+    "part=top": { "model": "cpm:block/easter_lily_top" }
+  }
+}

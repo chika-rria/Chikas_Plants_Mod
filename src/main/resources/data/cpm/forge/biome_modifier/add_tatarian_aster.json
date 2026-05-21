@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_features",
+  "biomes":  {
+    "type": "forge:or",
+    "values": [
+      "minecraft:plains",
+      "minecraft:forest",
+      "minecraft:meadow"
+    ]
+  },
+  "features": "cpm:tatarian_aster_placed",
+  "step": "vegetal_decoration"
+}

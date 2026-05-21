@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "flower_bed",
+  "key": {
+    "#": {
+      "item": "cpm:flower_bed_grass"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "item": "cpm:flower_bed_grass_half",
+    "count": 6
+  }
+}

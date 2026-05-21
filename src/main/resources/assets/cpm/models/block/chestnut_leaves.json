@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cpm:block/chestnut_leaves"
+  },
+  "render_type": "cutout"
+}

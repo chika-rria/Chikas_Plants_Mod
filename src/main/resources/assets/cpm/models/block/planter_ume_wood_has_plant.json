@@ -1,0 +1,7 @@
+{
+  "parent": "cpm:block/planter_wood",
+  "textures": {
+    "1":  "cpm:block/stripped_ume_log",
+    "dirt": "block/dirt"
+  }
+}

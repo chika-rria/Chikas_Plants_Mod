@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "particle": "cpm:block/chestnut_planks"
+  },
+  "render_type": "cutout"
+}

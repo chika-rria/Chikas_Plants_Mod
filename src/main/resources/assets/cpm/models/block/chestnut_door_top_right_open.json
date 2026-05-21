@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top_right_open",
+  "textures": {
+    "bottom": "cpm:block/chestnut_door_bottom",
+    "top": "cpm:block/chestnut_door_top"
+  }
+}

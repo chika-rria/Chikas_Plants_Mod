@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "has_wooden_bucket": {
+      "conditions": {
+        "items": [
+          {
+            "items":[
+              "minecraft:iron_nugget"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "cpm:wooden_bucket"
+    ]
+  }
+}

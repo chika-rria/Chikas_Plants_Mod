@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "cpm:block/dogtooth_violet"
+  },
+  "render_type": "cutout"
+}

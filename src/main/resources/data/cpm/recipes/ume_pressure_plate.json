@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_pressure_plate",
+  "key": {
+    "#": {
+      "item": "cpm:ume_planks_item"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "item": "cpm:ume_pressure_plate_item"
+  }
+}

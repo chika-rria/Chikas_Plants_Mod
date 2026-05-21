@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_features",
+  "biomes":  {
+    "type": "forge:or",
+    "values": [
+      "minecraft:plains",
+      "minecraft:meadow",
+      "minecraft:forest"
+    ]
+  },
+  "features": "cpm:veronica_persica_placed",
+  "step": "vegetal_decoration"
+}

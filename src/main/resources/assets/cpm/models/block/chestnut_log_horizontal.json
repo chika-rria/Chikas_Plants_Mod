@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column_horizontal",
+  "textures": {
+    "end": "cpm:block/chestnut_log_top",
+    "side": "cpm:block/chestnut_log"
+  }
+}

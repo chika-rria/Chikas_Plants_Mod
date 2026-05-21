@@ -1,0 +1,7 @@
+{
+  "parent": "cpm:block/planter_high",
+  "textures": {
+    "0": "minecraft:block/jungle_planks",
+    "dirt": "cpm:block/clear"
+  }
+}
