@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "cpm:block/lotus"
+      },
+      {
+        "model": "cpm:block/lotus",
+        "y": 90
+      },
+      {
+        "model": "cpm:block/lotus",
+        "y": 180
+      },
+      {
+        "model": "cpm:block/lotus",
+        "y": 270
+      }
+    ]
+  }
+}

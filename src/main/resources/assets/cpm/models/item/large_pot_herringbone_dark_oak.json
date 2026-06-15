@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cpm:item/large_pot_herringbone_dark_oak_item"
+  }
+}

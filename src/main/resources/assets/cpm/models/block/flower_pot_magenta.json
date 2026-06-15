@@ -1,0 +1,6 @@
+{
+  "parent": "cpm:block/flower_pot",
+  "textures": {
+    "flowerpot": "cpm:block/flower_pot_magenta"
+  }
+}

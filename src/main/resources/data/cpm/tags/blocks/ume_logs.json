@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "cpm:ume_log",
+    "cpm:ume_wood",
+    "cpm:stripped_ume_log",
+    "cpm:stripped_ume_wood"
+
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "cpm:camellia_leaves",
+    "cpm:chestnut_leaves",
+    "cpm:fragrant_olive_leaves",
+    "cpm:ginkgo_leaves",
+    "cpm:lemon_leaves",
+    "cpm:maple_leaves",
+    "cpm:paulownia_leaves",
+    "cpm:ume_leaves"
+  ]
+}

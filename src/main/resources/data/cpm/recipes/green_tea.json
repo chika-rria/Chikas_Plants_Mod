@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cpm:green_tea_leaves"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "minecraft:potion",
+      "count": 1,
+      "nbt": "{Potion:\"minecraft:water\"}"
+    }
+  ],
+  "result": {
+    "item": "cpm:green_tea",
+    "count": 1
+
+  }
+}

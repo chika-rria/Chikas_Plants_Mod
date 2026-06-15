@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "tag": "cpm:paulownia_logs"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "cpm:paulownia_planks_item"
+  }
+}

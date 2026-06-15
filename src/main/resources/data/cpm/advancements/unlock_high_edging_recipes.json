@@ -1,0 +1,36 @@
+{
+  "criteria": {
+    "has_cpm_low_edging_brick": {
+      "conditions": {
+        "items": [
+          {
+            "items":[
+              "cpm:low_edging_brick"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "cpm:high_edging_brick",
+      "cpm:high_edging_corner_brick",
+      "cpm:high_edging_nether_brick",
+      "cpm:high_edging_corner_nether_brick",
+      "cpm:high_edging_stone_brick",
+      "cpm:high_edging_corner_stone_brick",
+      "cpm:high_edging_deepslate_brick",
+      "cpm:high_edging_corner_deepslate_brick",
+      "cpm:high_edging_blackstone_brick",
+      "cpm:high_edging_corner_blackstone_brick",
+      "cpm:high_edging_mud_brick",
+      "cpm:high_edging_corner_mud_brick",
+      "cpm:high_edging_oak",
+      "cpm:high_edging_corner_oak",
+      "cpm:high_edging_dark_oak",
+      "cpm:high_edging_corner_dark_oak"
+    ]
+  }
+}

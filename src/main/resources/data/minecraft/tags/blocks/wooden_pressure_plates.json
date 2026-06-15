@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "cpm:chestnut_pressure_plate",
+    "cpm:paulownia_pressure_plate",
+    "cpm:ume_pressure_plate"
+  ]
+}

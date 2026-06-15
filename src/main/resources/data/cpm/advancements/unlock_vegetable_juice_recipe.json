@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "has_apple": {
+      "conditions": {
+        "items": [
+          {
+            "items":[
+              "minecraft:carrot"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "cpm:vegetable_juice"
+    ]
+  }
+}

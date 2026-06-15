@@ -1,0 +1,22 @@
+Copyright (c) 2025 Chika
+All Rights Reserved.
+
+【English】
+
+This mod is for personal use only.
+You may modify this mod for personal use, but redistribution of modified versions is prohibited.
+You may publish gameplay videos or livestreams using this mod on platforms such as YouTube or Twitch.
+You may include this mod in Modrinth or CurseForge modpacks without additional permission, provided that the mod is distributed through their official systems.
+Redistribution of the mod file outside of official distribution platforms, commercial use, modified reuploads, or claiming this mod as your own work is prohibited without permission.
+GitHub releases are provided only as official downloads.
+The author is not responsible for any damage caused by using this mod.
+
+【日本語】
+
+このModは個人利用のみに限られます。
+個人利用の範囲で改造することは可能ですが、改造版を無断で配布することは禁止されています。
+YouTubeやTwitchなどで、このModを使用したゲームプレイ動画や配信を公開することができます。
+ModrinthおよびCurseForgeの公式システムを利用したModPackへの収録は、追加の許可なく可能です。
+公式配布プラットフォーム以外でのModファイルの再配布、商用利用、改造版の再公開、または作者を偽る行為は禁止されています。
+GitHub Releases は公式ダウンロード用としてのみ提供されています。
+このModの使用によって生じたいかなる損害についても、作者は責任を負いません。

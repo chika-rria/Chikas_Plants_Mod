@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cpm:block/paulownia_sapling"
+  },
+  "render_type": "cutout"
+}

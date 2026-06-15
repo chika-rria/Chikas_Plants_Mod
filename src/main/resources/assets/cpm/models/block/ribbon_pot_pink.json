@@ -1,0 +1,6 @@
+{
+  "parent": "cpm:block/ribbon_pot",
+  "textures": {
+    "0": "cpm:block/ribbon_pot_pink"
+  }
+}

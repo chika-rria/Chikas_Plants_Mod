@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bark",
+  "key": {
+    "#": {
+      "item": "cpm:stripped_ume_log"
+    }
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 3,
+    "item": "cpm:stripped_ume_wood"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "minecraft:swamp",
+  "features": "cpm:japanese_skunk_cabbage_placed",
+  "step": "vegetal_decoration"
+}

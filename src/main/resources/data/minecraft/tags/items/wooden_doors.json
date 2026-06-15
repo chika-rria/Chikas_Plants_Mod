@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "cpm:chestnut_door_item",
+    "cpm:paulownia_door_item",
+    "cpm:ume_door_item"
+  ]
+}

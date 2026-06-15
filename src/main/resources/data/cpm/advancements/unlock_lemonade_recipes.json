@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "has_lemon": {
+      "conditions": {
+        "items": [
+          {
+            "items":[
+              "cpm:lemon"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "cpm:lemonade"
+    ]
+  }
+}

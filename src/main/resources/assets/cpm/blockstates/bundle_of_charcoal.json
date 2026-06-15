@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "cpm:block/bundle_of_charcoal",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "cpm:block/bundle_of_charcoal"
+    },
+    "facing=south": {
+      "model": "cpm:block/bundle_of_charcoal",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cpm:block/bundle_of_charcoal",
+      "y": 270
+    }
+  }
+}

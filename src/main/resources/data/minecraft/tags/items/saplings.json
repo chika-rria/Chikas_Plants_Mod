@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "cpm:camellia_sapling_item",
+    "cpm:chestnut_sapling_item",
+    "cpm:fragrant_olive_sapling_item",
+    "cpm:ginkgo_sapling_item",
+    "cpm:lemon_sapling_item",
+    "cpm:maple_sapling_item",
+    "cpm:paulownia_sapling_item",
+    "cpm:ume_sapling_item"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "cpm:chestnut_planks_item"
+    }
+  ],
+  "result": {
+    "item": "cpm:chestnut_button_item"
+  }
+}

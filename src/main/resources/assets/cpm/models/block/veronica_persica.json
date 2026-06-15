@@ -1,0 +1,7 @@
+{
+  "parent": "cpm:block/rhombic_plant",
+  "textures": {
+    "plant": "cpm:block/veronica_persica"
+  },
+  "render_type": "cutout"
+}

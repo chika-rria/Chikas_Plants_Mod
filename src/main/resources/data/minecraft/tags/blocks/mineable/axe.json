@@ -1,0 +1,56 @@
+{
+  "replace": false,
+  "values": [
+
+    "cpm:bundle_of_charcoal",
+    "cpm:chestnut_log",
+    "cpm:chestnut_wood",
+    "cpm:stripped_chestnut_log",
+    "cpm:stripped_chestnut_wood",
+    "cpm:chestnut_planks",
+    "cpm:chestnut_fence",
+    "cpm:chestnut_fence_gate",
+    "cpm:chestnut_slab",
+    "cpm:chestnut_stairs",
+    "cpm:chestnut_pressure_plate",
+    "cpm:chestnut_button",
+    "cpm:chestnut_door",
+    "cpm:chestnut_trapdoor",
+
+    "cpm:paulownia_log",
+    "cpm:paulownia_wood",
+    "cpm:stripped_paulownia_log",
+    "cpm:stripped_paulownia_wood",
+    "cpm:paulownia_planks",
+    "cpm:paulownia_fence",
+    "cpm:paulownia_fence_gate",
+    "cpm:paulownia_slab",
+    "cpm:paulownia_stairs",
+    "cpm:paulownia_pressure_plate",
+    "cpm:paulownia_button",
+    "cpm:paulownia_door",
+    "cpm:paulownia_trapdoor",
+
+    "cpm:ume_log",
+    "cpm:ume_wood",
+    "cpm:stripped_ume_log",
+    "cpm:stripped_ume_wood",
+    "cpm:ume_planks",
+    "cpm:ume_fence",
+    "cpm:ume_fence_gate",
+    "cpm:ume_slab",
+    "cpm:ume_stairs",
+    "cpm:ume_pressure_plate",
+    "cpm:ume_button",
+    "cpm:ume_door",
+    "cpm:ume_trapdoor",
+
+    "cpm:camellia_hedge",
+    "cpm:fragrant_olive_hedge",
+    "cpm:japanese_photinia_hedge",
+    "cpm:japanese_spindle_hedge",
+    "cpm:ukogi_hedge",
+
+    "cpm:crate"
+  ]
+}

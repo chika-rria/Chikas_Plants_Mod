@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "cpm:camellia_leaves"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "item": "cpm:camellia_hedge",
+    "count": 2
+  }
+}

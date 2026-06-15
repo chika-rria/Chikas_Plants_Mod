@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "low_edging",
+  "key": {
+    "#": {
+      "item": "minecraft:mud_brick_slab"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "item": "cpm:low_edging_mud_brick",
+    "count": 9
+  }
+}

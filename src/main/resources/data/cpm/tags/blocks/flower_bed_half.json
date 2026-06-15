@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cpm:flower_bed_dirt_half",
+    "cpm:flower_bed_grass_half",
+    "cpm:flower_bed_podzol_half",
+    "cpm:flower_bed_sand_half"
+  ]
+}

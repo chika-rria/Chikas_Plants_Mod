@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "#": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "pattern": [
+    " # ",
+    "X X",
+    " X "
+  ],
+  "result": {
+    "item": "cpm:wooden_bucket"
+  }
+}

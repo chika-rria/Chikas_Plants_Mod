@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "minecraft:leaves"
+    },
+    "X": {
+      "item": "minecraft:lime_dye"
+    }
+  },
+  "pattern": [
+    "#X#"
+  ],
+  "result": {
+    "item": "cpm:japanese_spindle_hedge",
+    "count": 2
+  }
+}

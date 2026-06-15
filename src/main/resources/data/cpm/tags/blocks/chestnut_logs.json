@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "cpm:chestnut_log",
+    "cpm:chestnut_wood",
+    "cpm:stripped_chestnut_log",
+    "cpm:stripped_chestnut_wood"
+
+  ]
+}

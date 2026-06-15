@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "cpm:chestnut_fence",
+    "cpm:paulownia_fence",
+    "cpm:ume_fence"
+  ]
+}

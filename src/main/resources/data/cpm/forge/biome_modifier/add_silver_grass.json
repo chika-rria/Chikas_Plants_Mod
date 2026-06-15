@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_features",
+  "biomes":  {
+    "type": "forge:or",
+    "values": [
+      "minecraft:meadow",
+      "minecraft:windswept_hills",
+      "minecraft:windswept_gravelly_hills",
+      "minecraft:savanna_plateau"
+    ]
+  },
+  "features": "cpm:silver_grass_placed",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "cpm:chestnut_sign",
+    "cpm:paulownia_sign",
+    "cpm:ume_sign"
+  ]
+}

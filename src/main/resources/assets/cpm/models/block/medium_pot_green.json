@@ -1,0 +1,6 @@
+{
+  "parent": "cpm:block/medium_pot",
+  "textures": {
+    "2": "cpm:block/medium_pot_green"
+  }
+}

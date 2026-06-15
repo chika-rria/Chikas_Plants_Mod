@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "part=root": { "model": "cpm:block/tree_dahlia_root" },
+    "part=middle": { "model": "cpm:block/tree_dahlia_middle" },
+    "part=top": { "model": "cpm:block/tree_dahlia_top" }
+  }
+}

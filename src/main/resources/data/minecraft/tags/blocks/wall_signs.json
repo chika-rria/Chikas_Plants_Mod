@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "cpm:chestnut_wall_sign",
+    "cpm:paulownia_wall_sign",
+    "cpm:ume_wall_sign"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "has_apple": {
+      "conditions": {
+        "items": [
+          {
+            "items":[
+              "minecraft:charcoal"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "cpm:bundle_of_charcoal",
+      "cpm:bundle_of_charcoal_reduce"
+    ]
+  }
+}

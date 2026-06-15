@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_trapdoor",
+  "key": {
+    "#": {
+      "item": "cpm:paulownia_planks_item"
+    }
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 2,
+    "item": "cpm:paulownia_trapdoor_item"
+  }
+}

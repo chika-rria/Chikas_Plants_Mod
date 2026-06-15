@@ -1,0 +1,7 @@
+{
+  "parent": "cpm:block/crop_cross",
+  "textures": {
+    "crop_cross": "cpm:block/tea_tree_stage3"
+  },
+  "render_type": "cutout"
+}

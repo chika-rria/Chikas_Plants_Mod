@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cpm:block/ume_slab"
+    },
+    "type=double": {
+      "model": "cpm:block/ume_planks"
+    },
+    "type=top": {
+      "model": "cpm:block/ume_slab_top"
+    }
+  }
+}

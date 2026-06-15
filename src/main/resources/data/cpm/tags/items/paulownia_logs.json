@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "cpm:paulownia_log_item",
+    "cpm:paulownia_wood_item",
+    "cpm:stripped_paulownia_log_item",
+    "cpm:stripped_paulownia_wood_item"
+
+  ]
+}

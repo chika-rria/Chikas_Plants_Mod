@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "has_plant=false": {
+      "model": "cpm:block/wooden_crate_planter_lime"
+    },
+    "has_plant=true": {
+      "model": "cpm:block/wooden_crate_planter_lime_has_plant"
+    }
+  }
+}

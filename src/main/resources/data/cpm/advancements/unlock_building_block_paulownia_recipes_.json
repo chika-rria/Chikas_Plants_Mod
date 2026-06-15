@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "has_paulownia_sapling": {
+      "conditions": {
+        "items": [
+          {
+            "items":[
+              "cpm:paulownia_sapling_item"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "cpm:paulownia_button",
+      "cpm:paulownia_door",
+      "cpm:paulownia_fence",
+      "cpm:paulownia_fence_gate",
+      "cpm:paulownia_planks",
+      "cpm:paulownia_pressure_plate",
+      "cpm:paulownia_sign",
+      "cpm:paulownia_slab",
+      "cpm:paulownia_stairs",
+      "cpm:paulownia_trapdoor",
+      "cpm:paulownia_wood",
+      "cpm:stripped_paulownia_wood"
+    ]
+  }
+}

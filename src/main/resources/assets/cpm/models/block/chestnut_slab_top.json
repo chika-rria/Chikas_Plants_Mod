@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cpm:block/chestnut_planks",
+    "side": "cpm:block/chestnut_planks",
+    "top": "cpm:block/chestnut_planks"
+  }
+}

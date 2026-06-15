@@ -1,0 +1,31 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "bamboo": "urushi:block/bamboo",
+    "bamboo_top": "urushi:block/bamboo_top_green",
+    "leaf": "cpm:block/japanese_timber_bamboo_singleleaf"
+  },
+  "render_type": "cutout",
+  "elements": [
+    {
+      "from": [6.75, -4.5, 6.75],
+      "to": [9.25, 15, 9.25],
+      "faces": {
+        "up":    { "uv": [2, 2, 6, 6], "texture": "#bamboo_top", "cullface": "up" },
+        "north": { "uv": [10, 0, 14, 16], "texture": "#bamboo" },
+        "south": { "uv": [10, 0, 14, 16], "texture": "#bamboo" },
+        "west":  { "uv": [10, 0, 14, 16], "texture": "#bamboo" },
+        "east":  { "uv": [10, 0, 14, 16], "texture": "#bamboo" }
+      }
+    },
+    {
+      "from": [-2.0, -4.25, 8.0],
+      "to": [18.0, 15.75, 8.0],
+      "shade": false,
+      "faces": {
+        "north": { "uv": [0, 0, 16, 16], "texture": "#leaf" },
+        "south": { "uv": [16, 0, 0, 16], "texture": "#leaf" }
+      }
+    }
+  ]
+}

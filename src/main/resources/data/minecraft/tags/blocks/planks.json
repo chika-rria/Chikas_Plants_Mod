@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "cpm:chestnut_planks",
+    "cpm:paulownia_planks",
+    "cpm:ume_planks"
+  ]
+}

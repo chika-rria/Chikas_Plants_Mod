@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "has_chestnut_sapling": {
+      "conditions": {
+        "items": [
+          {
+            "items":[
+              "cpm:chestnut_sapling_item"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "cpm:chestnut_button",
+      "cpm:chestnut_door",
+      "cpm:chestnut_fence",
+      "cpm:chestnut_fence_gate",
+      "cpm:chestnut_planks",
+      "cpm:chestnut_pressure_plate",
+      "cpm:chestnut_sign",
+      "cpm:chestnut_slab",
+      "cpm:chestnut_stairs",
+      "cpm:chestnut_trapdoor",
+      "cpm:chestnut_wood",
+      "cpm:stripped_chestnut_wood"
+    ]
+  }
+}

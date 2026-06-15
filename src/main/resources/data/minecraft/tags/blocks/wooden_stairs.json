@@ -1,0 +1,7 @@
+{ "replace": false,
+  "values": [
+    "cpm:chestnut_stairs",
+    "cpm:paulownia_stairs",
+    "cpm:ume_stairs"
+  ]
+}

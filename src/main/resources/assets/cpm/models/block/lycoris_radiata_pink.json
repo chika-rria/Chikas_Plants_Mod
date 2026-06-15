@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "cpm:block/lycoris_radiata_pink"
+  },
+  "render_type": "cutout"
+}

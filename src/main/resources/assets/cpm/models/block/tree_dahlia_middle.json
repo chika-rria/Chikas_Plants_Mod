@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "cpm:block/tree_dahlia_middle"
+  },
+  "render_type": "cutout"
+}

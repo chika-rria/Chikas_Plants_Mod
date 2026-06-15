@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "square_pot",
+  "ingredients": [
+    {
+      "item": "cpm:wooden_crate_planter_oak"
+    },
+    {
+      "item": "minecraft:light_blue_dye"
+    }
+
+  ],
+  "result": {
+    "item": "cpm:wooden_crate_planter_light_blue"
+  }
+}

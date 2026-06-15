@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cpm:oolong_tea_leaves"
+    },
+    {
+      "type": "forge:nbt",
+      "item": "minecraft:potion",
+      "count": 1,
+      "nbt": "{Potion:\"minecraft:water\"}"
+    }
+  ],
+  "result": {
+    "item": "cpm:oolong_tea",
+    "count": 1
+
+  }
+}

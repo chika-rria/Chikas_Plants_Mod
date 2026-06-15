@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "cpm:fragrant_olive_leaves"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "item": "cpm:fragrant_olive_hedge",
+    "count": 2
+  }
+}

@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "cpm:block/square_pot_red",
+		"1": "minecraft:block/moss_block",
+		"particle": "cpm:block/square_pot_red"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 4, 12],
+			"faces": {
+				"north": {"uv": [4, 12, 12, 16], "texture": "#0"},
+				"east": {"uv": [4, 12, 12, 16], "texture": "#0"},
+				"south": {"uv": [4, 12, 12, 16], "texture": "#0"},
+				"west": {"uv": [4, 12, 12, 16], "texture": "#0"},
+				"up": {"uv": [4, 4, 12, 12], "texture": "#0"},
+				"down": {"uv": [4, 4, 12, 12], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5, 4, 5],
+			"to": [11, 4.5, 11],
+			"color": 7,
+			"faces": {
+				"north": {"uv": [0, 0, 6, 0.5], "texture": "#1"},
+				"east": {"uv": [0, 0, 6, 0.5], "texture": "#1"},
+				"south": {"uv": [0, 0, 6, 0.5], "texture": "#1"},
+				"west": {"uv": [0, 0, 6, 0.5], "texture": "#1"},
+				"up": {"uv": [0, 0, 6, 6], "texture": "#1"},
+				"down": {"uv": [0, 0, 6, 6], "texture": "#1"}
+			}
+		}
+	]
+}

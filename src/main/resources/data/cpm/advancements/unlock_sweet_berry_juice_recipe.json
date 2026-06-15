@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "has_apple": {
+      "conditions": {
+        "items": [
+          {
+            "items":[
+              "minecraft:sweet_berry"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "cpm:sweet_berry_juice"
+    ]
+  }
+}

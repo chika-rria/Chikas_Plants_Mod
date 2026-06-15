@@ -1,0 +1,7 @@
+{
+  "parent": "cpm:block/planter_wood",
+  "textures": {
+    "1":  "minecraft:block/stripped_warped_stem",
+    "dirt": "minecraft:block/dirt"
+  }
+}

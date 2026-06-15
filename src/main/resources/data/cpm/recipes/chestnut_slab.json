@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_slab",
+  "key": {
+    "#": {
+      "item": "cpm:chestnut_planks_item"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "cpm:chestnut_slab_item"
+  }
+}
